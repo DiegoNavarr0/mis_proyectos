@@ -1,1 +1,1 @@
-En esta carpeta se encuentra una aplicación creada en Python usando la libería Kivy. Proyecto realizado en la materia Soporte a la Gestión de Datos de la carrera Ingeniería en Sistemas de la Información de la Universidad Tecnológica Nacional
+En esta carpeta se encuentra una aplicación creada en Python usando la librería Kivy. Proyecto realizado en la materia Soporte a la Gestión de Datos de la carrera Ingeniería en Sistemas de la Información de la Universidad Tecnológica Nacional
